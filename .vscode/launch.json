@@ -1,0 +1,35 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "ArrayHandling",
+            "request": "launch",
+            "mainClass": "ArrayHandling",
+            "projectName": "JAVA_a7bfff5c"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "A",
+            "request": "launch",
+            "mainClass": "A",
+            "projectName": "JAVA_a7bfff5c"
+        },
+        {
+            "type": "java",
+            "name": "StringHandling",
+            "request": "launch",
+            "mainClass": "StringHandling",
+            "projectName": "JAVA_a7bfff5c"
+        }
+    ]
+}
